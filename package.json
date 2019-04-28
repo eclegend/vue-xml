@@ -15,10 +15,14 @@
     "@vue/cli-plugin-babel": "^3.6.0",
     "@vue/cli-plugin-eslint": "^3.6.0",
     "@vue/cli-service": "^3.6.0",
+    "axios": "^0.18.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "vue-template-compiler": "^2.5.21"
+    "jsonpath": "^1.0.1",
+    "vue-axios": "^2.1.4",
+    "vue-template-compiler": "^2.5.21",
+    "xml2js": "^0.4.19"
   },
   "eslintConfig": {
     "root": true,
